@@ -8,7 +8,7 @@ This is a general Hello World program to start up my repository.
 
 # Development Environment
 
-I used Visua Studio Code to make this program and test that it's working properly.
+I used Visual Studio Code to make this program and test that it's working properly.
 This program was created using Python programming language.
 
 # Useful Websites
